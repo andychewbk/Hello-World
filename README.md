@@ -1,2 +1,3 @@
 # Hello-World
-Just another repository
+Hi Humans
+I am trying to create a database for postgresql and i am ending up in here
